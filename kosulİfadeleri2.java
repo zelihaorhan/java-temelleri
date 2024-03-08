@@ -34,5 +34,7 @@ public class kosulİfadeleri2 {
         else{
             System.out.println("Notunuz hicbir deger araliginda degildir...");
         }
+
+        scanner.close();
     }
 }

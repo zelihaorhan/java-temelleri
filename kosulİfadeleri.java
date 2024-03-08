@@ -38,6 +38,8 @@ public class kosulİfadeleri {
         else{
             System.out.println("Dersten kaldiniz :/");
         }
+
+        scanner.close();
         
     }
 }
