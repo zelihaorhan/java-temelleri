@@ -29,7 +29,7 @@ public class stringMetotlari {
         int sonIndex=str.lastIndexOf('a');
         System.out.println("İlk 'a' indexi: " + ilkIndex);
         System.out.println("Son 'a' indexi:" + sonIndex); 
-
         
+
     }
 }
